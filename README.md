@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shravangoud62
 - 👀 I’m interested in analyst roles...
-- 🌱 I’m currently upgrading my skills day to day...
+- 🌱 I have upgraded my skills in Data Analysis I.e, Excel, MYSQL, SQL Server, Power BI, Tableau
 - 💞️ I’m looking to collaborate on any analyst roles like Data, Finance, Business Analyst
 - 📫 How to reach me email: shravangoud62@gmail.com
 
